@@ -1,13 +1,12 @@
 {
   "name": "atom014",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "สล็อตออนไลน์ แตกง่ายไม่มีขั้นต่ำ อันดับ1ในไทย",
   "keywords": [
-    "syntax",
-    "theme"
+    "สล็อตออนไลน์"
   ],
-  "repository": "https://github.com/atom/atom014",
+  "repository": "https://github.com/atomicanother/atom014",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
